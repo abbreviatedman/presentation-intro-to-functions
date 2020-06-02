@@ -8,6 +8,7 @@
 @snapend
 
 ---
+
 @snap[north]
 ![](https://3.bp.blogspot.com/-42oCVxzA_qI/T1GmphVyvxI/AAAAAAAAQJw/pS1nJXrbXXc/s400/Assembly_Line.jpg)
 @snapend
@@ -26,6 +27,7 @@ Every part of your code should have one job! That makes it easy to separate your
 @ulend
 
 @snapend
+
 ---
 
 ## What does a function look like?
@@ -38,6 +40,7 @@ function incrementX() {
 }
 ```
 @snapend
+
 ---
 
 ### What are all those parts, though?
@@ -57,6 +60,7 @@ function incrementX() {
 * Everything in the curly braces is the code that runs when the function is "called".
 @ulend
 @snapend
+
 ---
 
 ### Let's see it in action!
@@ -178,6 +182,7 @@ Variables *inside* will be for internal use only.
 Our next tool, parameters, will be a much cleaner solution!
 
 ---
+
 @snap[north span-100]
 ## Our new weapon:
 
